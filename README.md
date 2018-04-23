@@ -1,1 +1,1 @@
-# 2018-Korean-votes
+#  A repository for the Robot Journalism project
